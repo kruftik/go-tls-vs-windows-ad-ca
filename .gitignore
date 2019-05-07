@@ -1,6 +1,4 @@
 **/*.pem
 **/*.crt
 **/*.key
-**/http-server
-**/server
-**/client
+bin/
